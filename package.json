@@ -1,0 +1,22 @@
+{
+	"name": "aero-git",
+	"version": "0.0.1",
+	"main": "index.js",
+	"description": "Registers /git/pull route, usable as a service hook in GitHub.",
+	"dependencies": {},
+	"keywords": [
+		"aero",
+		"git",
+		"github"
+	],
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/aerojs/aero-git"
+	},
+	"author": {
+		"name": "Eduard Urbach",
+		"email": "e.urbach@gmail.com",
+		"url": "https://blitzprog.org"
+	},
+	"license": "GPL-3.0"
+}
